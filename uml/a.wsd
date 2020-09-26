@@ -1,0 +1,6 @@
+@startuml A
+
+Bob -> Alice : 你好吗？
+Alice -> Bob : 我很好，你呢？
+
+@enduml
